@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MobileDev</string>
+    <string name="app_name">Dice</string>
     <string name="TxtNumber">Roll your dice</string>
     <string name="Roll">Roll la</string>
 </resources>
